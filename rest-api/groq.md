@@ -2,6 +2,7 @@
 ## Links
 * [doc](https://console.groq.com/docs) 
 * [models](https://console.groq.com/docs/models)
+* [dev console](https://console.groq.com/home)
 * [create api key](https://console.groq.com/keys)
 
 
